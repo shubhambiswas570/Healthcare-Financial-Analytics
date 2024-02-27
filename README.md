@@ -23,7 +23,7 @@ Dashboard with key performance indicator:
    Patient Days.
    Net Patient Revenue.
    Revenue Trend.
-   Patient Stays.   
+   Patient Stays.
    State Wise No of Hospital/Revenue. 
    Type Of hospital Revenue.
    Total Patient, Total Doctor, Total Hospital.
